@@ -1,0 +1,8 @@
+.con-nav{
+  background-image: url('./forest/5.jpg');
+  height: 600px;
+  width: 100%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+}

@@ -1,0 +1,49 @@
+.ajmlogo{
+  height: 100px;
+}
+.loginBtn{
+  position: fixed;
+  width: 10%;
+}
+.con-para1{
+  font-size: 1.7rem;
+  color: #181717d2
+}
+.con-para1 span{
+text-decoration: orange underline;
+}
+.con-para2{
+  font-size: 1.2rem;
+  color: #181717d2
+}
+.con-para3{
+  color: #181717d2
+}
+.con-para3 i{
+  color: aquamarine;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+.signupform{
+  border: 1px solid #dadada;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.slider{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.log{
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+.logBtn{
+  width: 100%;
+}
